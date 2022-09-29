@@ -1,0 +1,15 @@
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\bin\Debug\net6.0\Number_1_2022-09-29.exe
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\bin\Debug\net6.0\Number_1_2022-09-29.deps.json
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\bin\Debug\net6.0\Number_1_2022-09-29.runtimeconfig.json
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\bin\Debug\net6.0\Number_1_2022-09-29.dll
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\bin\Debug\net6.0\Number_1_2022-09-29.pdb
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.csproj.AssemblyReference.cache
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.AssemblyInfoInputs.cache
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.AssemblyInfo.cs
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.csproj.CoreCompileInputs.cache
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.dll
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\refint\Number_1_2022-09-29.dll
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.pdb
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\Number_1_2022-09-29.genruntimeconfig.cache
+D:\_GeekBrains\FinalWorks\Number_1_2022-09-29\obj\Debug\net6.0\ref\Number_1_2022-09-29.dll
